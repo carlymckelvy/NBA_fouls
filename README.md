@@ -17,8 +17,8 @@ Measuring the impact of officials on the outcome of NBA games.
 
 Datasets to Be Used:
 
-https://www.kaggle.com/pablote/nba-enhanced-stats
-CSV
+- https://www.kaggle.com/pablote/nba-enhanced-stats
+- CSV
 
 Rough Breakdown of Tasks:
 -	Clean data for duplicate refs per game
