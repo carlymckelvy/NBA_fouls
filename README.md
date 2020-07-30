@@ -15,9 +15,10 @@ Measuring the impact of officials on the outcome of NBA games.
 -	Fouls for Official for time of year
 -	Fouls by day of week
 
-Datasets to Be Used: 
-CSV
+Datasets to Be Used:
+
 https://www.kaggle.com/pablote/nba-enhanced-stats
+CSV
 
 Rough Breakdown of Tasks:
 -	Clean data for duplicate refs per game
