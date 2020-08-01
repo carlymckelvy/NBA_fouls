@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# group_project
+Group project. Edit later.
+This is a test for Pat's Branch
+=======
 Project Title: Foul Mouths
 
 Team Members: Patrick Leon, Carly McKelvy, Justan Plumlee
@@ -24,3 +29,4 @@ Rough Breakdown of Tasks:
 -	Clean data for duplicate refs per game
 -	Create column for weekday
 -	Concatenate official names
+>>>>>>> a5519d49ff1803a700258094547e5719e12d7a05
