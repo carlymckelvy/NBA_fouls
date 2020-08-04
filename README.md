@@ -1,5 +1,7 @@
 # group_project
 
+Group project with Patrick and Carly.
+
 Project Title: Foul Mouths
 
 Team Members: Patrick Leon, Carly McKelvy, Justan Plumlee
